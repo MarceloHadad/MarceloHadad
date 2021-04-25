@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hey there ✌🏼
+
+I am Marcelo Hadad and I am a Developer. Welcome to my Github page!
+
+<hr></hr>
+
+<h3>👨🏻‍💻 Tech that I currently use:</h3>
+
+- Go, Python, C#, Java
+- Postgres, MySQL
+- Azure DevOps
+- Docker
+- Sourcetree
+
+<h3> 💻 Links:</h3>
+  
+- LinkedIn: https://www.linkedin.com/in/MarceloHadad/
 
 <!--
 **MarceloHadad/MarceloHadad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
