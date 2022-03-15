@@ -7,10 +7,12 @@ I am Marcelo Hadad and I am a Developer. Welcome to my Github page!
 <h3>👨🏻‍💻 Tech that I currently use:</h3>
 
 - C++, Go, Python, C#, Java
-- Postgres, MySQL, SQL Server, SQLite
+- .NET, Xamarin Forms
+- Postgres, MySQL, SQL Server, SQLite, Oracle SQL
 - Azure DevOps
 - Docker, CMake
-- Sourcetree
+- Git, Sourcetree
+- Windows, Linux
 
 <h3> 💻 Links:</h3>
   
