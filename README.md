@@ -7,9 +7,9 @@ I am Marcelo Hadad and I am a Developer. Welcome to my Github page!
 <h3>👨🏻‍💻 Tech that I currently use:</h3>
 
 - C++, Go, Python, C#, Java
-- Postgres, MySQL
+- Postgres, MySQL, SQL Server, SQLite
 - Azure DevOps
-- Docker
+- Docker, CMake
 - Sourcetree
 
 <h3> 💻 Links:</h3>
