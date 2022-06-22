@@ -4,15 +4,17 @@ I am Marcelo Hadad and I am a Developer. Welcome to my Github page!
 
 <hr></hr>
 
-<h3>👨🏻‍💻 Tech that I currently use:</h3>
+<h3>👨🏻‍💻 Skills:</h3>
 
-- C++, Go, Python, C#, Java, JavaScript, HTML, CSS
+- C++, Go, C#, Java
+- JavaScript, HTML, CSS
+- Python, PHP, BASH
 - .NET, ASP.NET, Xamarin Forms
 - PostgreSQL, MySQL, SQL Server, SQLite, Oracle SQL
-- Azure DevOps, CI, CD
-- Docker, CMake
-- Git, Sourcetree
+- Azure DevOps, CI, CD, IIS
+- Docker, CMake, Git, Sourcetree
 - Windows, Linux
+- Scrum, Kanban
 
 <h3> 💻 Links:</h3>
   
