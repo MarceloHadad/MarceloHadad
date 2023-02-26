@@ -22,8 +22,7 @@ dedicated, responsible, diligent, dynamic, agile, correct, proactive, organized,
 
 English B1, C++, Go, C#, Java, JavaScript, React.js, Electron.js, Node.js, Feather.js, HTML, CSS, Python, PHP, BASH, .NET, ASP.NET, Xamarin Forms, PostgreSQL, MySQL, SQL Server, SQLite, Oracle SQL, Azure DevOps, CI, CD, Oracle Cloud, IIS, Docker, CMake, Git, Sourcetree, Windows, Linux, Scrum, Kanban, Azure Boards, Jira
   
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/MarceloHadad/)
-&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MarceloHadad/)
 
 ### 📊 Stats
 
