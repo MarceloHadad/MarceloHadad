@@ -26,6 +26,6 @@ English B1, C++, Go, C#, Java, JavaScript, React.js, Electron.js, Node.js, Feath
 
 ### 📊 Stats
 
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarceloHadad&layout=compact&langs_count=7&theme=gotham)
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarceloHadad&layout=compact&langs_count=8&theme=gotham)
 
 ![Marcelo Hadad's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarceloHadad&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
