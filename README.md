@@ -4,25 +4,33 @@ Welcome to my Github page!
 
 ## Profile
 
-I'm Marcelo Hadad and I'm a Software Engineer.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MarceloHadad/)
 
-I have experience in developing systems related to the Financial Market, such as: mobile applications, web applications, among other low-level applications, developing for both Front-End and Back-End.
+I am a Software Engineer with a strong background in developing systems related to the Financial Market. My professional journey encompasses a variety of projects, including mobile applications, web applications, and low-level systems. I have extensive experience in both Front-End and Back-End development.
 
-My main skill is adaptability.
+My primary strength lies in adaptability. My ability to quickly adjust to new challenges, technologies, and evolving environments is what drives my success in the field of software engineering. I am committed to delivering high-quality solutions and continuously improving to meet the demands of the technology industry.
 
 ### 🌟 Specialties
 
-C# e C++
+- C#: Experienced in creating applications and systems using C# and the .NET platform.
+- C++: Proficient in software development in C++ for low-level systems and drivers.
 
 ### 🪶 Soft Skills
 
-dedicated, responsible, diligent, dynamic, agile, correct, proactive, organized, analytical, collaborative, self-taught
+dedicated, responsible, diligent, dynamic, agile, accurate, proactive, organized, analytical, collaborative, self-taught.
 
 ### 👨🏻‍💻 Hard Skills
 
-English B1, C++, Go, C#, Java, JavaScript, React.js, Electron.js, Node.js, Feather.js, HTML, CSS, Python, PHP, BASH, .NET, ASP.NET, Xamarin Forms, PostgreSQL, MySQL, SQL Server, SQLite, Oracle SQL, Azure DevOps, CI, CD, Oracle Cloud, IIS, Docker, CMake, Git, Sourcetree, Windows, Linux, Scrum, Kanban, Azure Boards, Jira
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MarceloHadad/)
+- Programming Languages: C++, Go, C#, Java, JavaScript, Python, PHP, BASH
+- Web Development: React.js, Electron.js, Node.js, Feather.js, HTML, CSS
+- Frameworks and Platforms: .NET, ASP.NET, Xamarin Forms
+- Databases: PostgreSQL, MySQL, SQL Server, SQLite, Oracle SQL
+- Development Tools: Azure DevOps, Git, Sourcetree, CMake
+- Cloud and DevOps: Oracle Cloud, Docker, Continuous Integration (CI), Continuous Deployment (CD), Azure Cloud
+- Operating Systems: Windows, Linux
+- Project Management Methodologies: Scrum, Kanban
+- Project Management Tools: Azure Boards, Jira, ClickUp
+---
 
 ### 📊 Stats
 
