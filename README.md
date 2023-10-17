@@ -30,6 +30,7 @@ dedicated, responsible, diligent, dynamic, agile, accurate, proactive, organized
 - Operating Systems: Windows, Linux
 - Project Management Methodologies: Scrum, Kanban
 - Project Management Tools: Azure Boards, Jira, ClickUp
+
 ---
 
 ### 📊 Stats
