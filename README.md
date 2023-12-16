@@ -35,6 +35,9 @@ dedicated, responsible, diligent, dynamic, agile, accurate, proactive, organized
 
 ### 📊 Stats
 
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarceloHadad&layout=compact&langs_count=8&theme=gotham)
-
-![Marcelo Hadad's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarceloHadad&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
+![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarceloHadad&theme=gotham)
+![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarceloHadad&theme=gotham)
+![most-commit-language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarceloHadad&theme=gotham)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarceloHadad&theme=gotham)
+![productive-time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarceloHadad&theme=gotham&utcOffset=-3)
+![top-langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarceloHadad&langs_count=8&theme=gotham)
