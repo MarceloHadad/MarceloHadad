@@ -1,4 +1,4 @@
-# Hey there ✌🏼
+# Marcelo Hadad ✌🏼
 
 Welcome to my Github page!
 
@@ -33,9 +33,7 @@ dedicated, responsible, diligent, dynamic, agile, accurate, proactive, organized
 - Project Management Methodologies: Scrum, Kanban
 - Project Management Tools: Azure Boards, Jira, ClickUp
 
----
-
-### 📊 Stats
+## 📊 GitHub Stats
 
 ![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarceloHadad&theme=gotham)
 ![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarceloHadad&theme=gotham)
