@@ -1,8 +1,7 @@
-# Marcelo Hadad ✌🏼
+# Welcome! I'm Marcelo Hadad ✌🏼
+## Full Stack | C++ | C# | .NET | TypeScript | Angular | Azure Cloud | SQL Server
 
-Welcome to my Github page!
-
-![octocat-hadad](/assets/octocat-hadad.png)
+![X-Team Background Theme](https://radio.x-team.com/_next/static/media/mario.2484c967.gif)
 
 ## Profile
 
