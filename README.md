@@ -7,9 +7,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MarceloHadad/)
 
-I am a Software Engineer with a strong background in developing systems related to the Financial Market. My professional journey encompasses a variety of projects, including mobile applications, web applications, and low-level systems. I have extensive experience in both Front-End and Back-End development.
+I am a Software Developer with a strong background in developing systems related to the Financial Market. My professional journey encompasses a variety of projects, including mobile applications, web applications, and low-level systems. I have extensive experience in both Front-End and Back-End development.
 
-My primary strength lies in adaptability. My ability to quickly adjust to new challenges, technologies, and evolving environments is what drives my success in the field of software engineering. I am committed to delivering high-quality solutions and continuously improving to meet the demands of the technology industry.
+My primary strength lies in adaptability. My ability to quickly adjust to new challenges, technologies, and evolving environments is what drives my success in the field of software development. I am committed to delivering high-quality solutions and continuously improving to meet the demands of the technology industry.
 
 ### 🌟 Specialties
 
@@ -22,8 +22,8 @@ dedicated, responsible, diligent, dynamic, agile, accurate, proactive, organized
 
 ### 👨🏻‍💻 Hard Skills
 
-- Programming Languages: C++, Go, C#, Java, JavaScript, Python, PHP, BASH
-- Web Development: React.js, Electron.js, Node.js, Feather.js, HTML, CSS
+- Programming Languages: C++, Go, C#, Java, JavaScript, TypeScript, Python, PHP, BASH
+- Web Development: Angular, React.js, Electron.js, Node.js, Feather.js, HTML, CSS
 - Frameworks and Platforms: .NET, ASP.NET, Xamarin Forms
 - Databases: PostgreSQL, MySQL, SQL Server, SQLite, Oracle SQL
 - Development Tools: Azure DevOps, Git, Sourcetree, CMake
