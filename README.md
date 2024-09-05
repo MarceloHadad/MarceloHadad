@@ -1,7 +1,7 @@
 # Welcome! I'm Marcelo Hadad ✌🏼
 ## Full Stack | C++ | C# | .NET | TypeScript | Angular | Azure Cloud | SQL Server
 
-![X-Team Background Theme](https://radio.x-team.com/_next/static/media/mario.2484c967.gif)
+![X-Team Background Theme](assets/marioXTeam.gif)
 
 ## Profile
 
