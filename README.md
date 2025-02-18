@@ -1,31 +1,28 @@
 # Welcome! I'm Marcelo Hadad ✌🏼
-## Software Developer | Full Stack | C++ | C# | .NET | Node.js | TypeScript | Angular | MongoDB | SQL Server | Azure Cloud
+## Software Developer | Full Stack | C++ | C# | .NET | Go | Node.js | TypeScript | JavaScript | Angular | React | MongoDB | SQL Server | PostgreSQL | Azure
 
 ![X-Team Background Theme](assets/marioXTeam.gif)
 
 ## Profile
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MarceloHadad/)
 
-I am a software developer with experience in the financial sector. Throughout my career, I have worked on various projects, contributing to both Front-End and Back-End development. These experiences have provided me with a solid technical foundation and strengthened my analytical and collaborative approach to problem-solving.
+I am a software developer with experience in the financial sector, working on various projects in both front-end and back-end development. My approach is analytical, collaborative, and focused on delivering efficient solutions.
 
-### 🌟 Career Highlights
-- Proactivity and Continuous Learning: Always seeking new challenges, I quickly acquired new technologies and solved complex problems, delivering solutions with agility and high quality.
-- Leadership and Collaboration: As a Scrum Master, I implemented improvements that optimized development processes, increasing team efficiency and delivery quality.
-- Client Interaction and Problem Resolution: I worked directly with clients, addressing their needs efficiently and facilitating communication between internal teams.
-- Adaptability: My ability to move between different roles and areas has allowed me to contribute in DevOps, QA, SCRUM, and full-stack development, providing comprehensive support to projects.
+Career Highlights:
 
-### 🪶 Soft Skills
-My work is characterized by proactivity, clear communication, focus on results, and a strong collaborative spirit, always aiming to optimize processes and achieve objectives efficiently.
+- Proactivity and continuous learning: Quickly adapting to new technologies, ensuring agile and high-quality solutions.
+- Leadership and collaboration: Experience as a Scrum Master, optimizing processes and increasing team efficiency.
+- Customer service and problem-solving: Strong communication skills with clients and internal teams to understand and meet demands.
+- Adaptability: Experience across multiple areas, including DevOps, QA, Scrum, and full-stack development.
 
 ### 👨🏻‍💻 Hard Skills
 - Programming Languages: C++, C#, Go, JavaScript, TypeScript, Python
-- Web and Mobile Development: Angular, React.js, Flutter
-- Frameworks and Platforms: .NET, ASP.NET
+- Web & Mobile: Angular, React.js, Flutter
+- Frameworks & Platforms.NET, ASP.NET
 - Databases: SQL Server, PostgreSQL, SQLite, MongoDB
-- Cloud and DevOps: Azure Cloud, Docker, CI/CD
-- Development Tools: Azure DevOps, Git, Sourcetree
-- Operating Systems: Windows, Linux, MacOS
-- Project Management Methodologies and Tools: Scrum, Kanban, Azure Boards, Jira, ClickUp
+- Cloud & DevOps: Azure Cloud, Docker, CI/CD
+- Tools: Azure DevOps, Git, Sourcetree
+- Project Management: Scrum, Kanban, Jira, ClickUp, Azure Boards
 
 ## 📊 GitHub Stats
 ![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarceloHadad&theme=gotham)
