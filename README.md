@@ -30,4 +30,4 @@ Career Highlights:
 ![most-commit-language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarceloHadad&theme=gotham)
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarceloHadad&theme=gotham)
 ![productive-time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarceloHadad&theme=gotham&utcOffset=-3)
-![top-langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarceloHadad&langs_count=8&theme=gotham)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloHadad&langs_count=8&theme=gotham)
