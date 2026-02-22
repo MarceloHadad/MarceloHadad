@@ -1,9 +1,11 @@
 # Welcome! I'm Marcelo Hadad ✌🏼
+
 ## Software Developer | Full Stack | C++ | C# | .NET | Go | Node.js | TypeScript | JavaScript | Angular | React | MongoDB | SQL Server | PostgreSQL | Azure
 
 ![X-Team Background Theme](assets/marioXTeam.gif)
 
 ## Profile
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MarceloHadad/)
 
 I am a software developer with experience in the financial sector, working on various projects in both front-end and back-end development. My approach is analytical, collaborative, and focused on delivering efficient solutions.
@@ -16,6 +18,7 @@ Career Highlights:
 - Adaptability: Experience across multiple areas, including DevOps, QA, Scrum, and full-stack development.
 
 ### 👨🏻‍💻 Hard Skills
+
 - Programming Languages: C++, C#, Go, JavaScript, TypeScript, Python
 - Web & Mobile: Angular, React.js, Flutter
 - Frameworks & Platforms.NET, ASP.NET
