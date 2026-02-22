@@ -28,8 +28,9 @@ Career Highlights:
 - Project Management: Scrum, Kanban, Jira, ClickUp, Azure Boards
 
 ## 📊 GitHub Stats
-![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarceloHadad&theme=gotham)
-![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarceloHadad&theme=gotham)
-![most-commit-language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarceloHadad&theme=gotham)
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarceloHadad&theme=gotham)
-![productive-time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarceloHadad&theme=gotham&utcOffset=-3)
+
+![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarceloHadad&theme=2077)
+![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarceloHadad&theme=2077)
+![most-commit-language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarceloHadad&theme=2077)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarceloHadad&theme=2077)
+![productive-time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarceloHadad&theme=2077&utcOffset=-3)
