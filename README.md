@@ -6,7 +6,7 @@
 
 ## Profile
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MarceloHadad/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MarceloHadad/)
 
 Full Stack Developer focused on high-complexity financial and payments systems. Throughout my career, I've worked across the full spectrum — from implementing critical network protocols (TCP/IP, UDP, FIX) in financial infrastructure, to building payment gateways, EMV/TLV integrations, chatbots, and distributed microservices architectures.
 
